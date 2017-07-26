@@ -1,16 +1,16 @@
 {
-  "name": "lvm-las-assets",
-  "version": "0.0.1",
-  "description": "Assets for LVM LAS projects",
-  "homepage": "https://github.com/innoq/lvm-las-assets",
+  "name": "crimson-styleguide",
+  "version": "1.0.0",
+  "description": " Shared Assets for the Crimson Apps",
+  "homepage": "https://github.com/crimson-assurance/crimson-styleguide",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/innoq/lvm-las-assets/issues"
+    "url": "https://github.com/crimson-assurance/crimson-styleguide/issues"
   },
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/innoq/lvm-las-assets"
+    "url": "https://github.com/crimson-assurance/crimson-styleguide"
   },
   "bin" : {
     "copy-assets" : "./copy-assets.js"
