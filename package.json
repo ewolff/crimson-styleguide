@@ -2,15 +2,15 @@
   "name": "crimson-styleguide",
   "version": "2.0.1",
   "description": "Shared Assets for the Crimson Apps",
-  "homepage": "https://github.com/crimson-assurance/crimson-styleguide",
+  "homepage": "https://github.com/ewolff/crimson-styleguide",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/crimson-assurance/crimson-styleguide/issues"
+    "url": "https://github.com/ewolff/crimson-styleguide/issues"
   },
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/crimson-assurance/crimson-styleguide"
+    "url": "https://github.com/ewolff/crimson-styleguide"
   },
   "bin": {
     "copy-assets": "./copy-assets.js"
